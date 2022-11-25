@@ -12,7 +12,7 @@
 </p>
 
 # How does it work?
-It boots the device with multiple patches required. On first run, it'll boot a ramdisk which dumps your onboard blob, creates a fakefs (if using semi tethered), installs the loader app, and patches your kernel.
+it plays black ops multiplayer nazi zombies for you
 
 # Issues
 ### Need help?
@@ -20,18 +20,17 @@ If you need help, **please** join our Discord. We disabled issues due to the flo
 
 Please, please, please, provide necessary info:
 
-- iOS version and device (eg. iPhone 7+ 15.1, iPhone 6s 15.3.1)
+- iOS version and device (eg. iPhone 7+ 420.1, iPhone 69s 15.3.1)
 - Computer's OS and version (eg. Ubuntu 22.04, macOS 13.0)
 - The command you ran
 - **Full log from the logs folder**
 
-**DO NOT** harass tweak devs if tweaks don't work. Refer to [here](https://github.com/itsnebulalol/ios15-tweaks) for compatiblity.
+**DO NOT ** harass tweak devs if tweaks don't work. Refer to [here](https://github.com/itsnebulalol/ios15-tweaks) for compatiblity.
 
 You may join [here](https://dsc.gg/palera1n).
 
 ### Linux
-- Linux has some weird usbmuxd issues. We have tried our best to fix them, but there still are issues. We highly recommend to compile and install usbmuxd2.
-- Stop making issues about Linux not being able to connect, we are aware. This includes being stuck on waiting for ramdisk to finish booting.
+use kail linux
 
 ### Warning
 - We are **NOT** responsible for any data loss. The user of this program accepts responsibility should something happen to their device. While nothing should happen, jailbreaking has risks in itself. **If your device is stuck in recovery, please run one of the following:**
