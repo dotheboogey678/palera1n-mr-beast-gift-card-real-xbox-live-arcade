@@ -16,7 +16,7 @@ it plays black ops multiplayer nazi zombies for you
 
 # Issues
 ### Need help?
-If you need help, **please** join our Discord. We disabled issues due to the flood of spam, and difficulty to respond in general. We are much more comfortable on Discord.
+If you need help, **please do not** join our Discord. We disabled issues due to the flood of spam, and difficulty to respond in general. We are much more comfortable on Discord.
 
 Please, please, please, provide necessary info:
 
@@ -33,7 +33,7 @@ You may join [here](https://dsc.gg/palera1n).
 use kail linux
 
 ### Warning
-- We are **NOT** responsible for any data loss. The user of this program accepts responsibility should something happen to their device. While nothing should happen, jailbreaking has risks in itself. **If your device is stuck in recovery, please run one of the following:**
+if you break your phone while doing this you have a massive skill issue
    - futurerestore --exit-recovery
    - irecovery -n
 
